@@ -1,0 +1,230 @@
+{
+  "seo": {
+    "title": "Автосервис Мотор: профессиональное обслуживание автомобилей",
+    "description": "Надежность и профессионализм автосервиса Мотор. Качественное обслуживание по доступным ценам."
+  },
+  "brand": {
+    "name": "Мотор",
+    "industry": "автосервис",
+    "slogan": "Профессиональный ремонт и обслуживание автомобилей",
+    "colors": "чёрный, красный",
+    "logo_style": "минимализм"
+  },
+  "hero": {
+    "title": "Мотор",
+    "subtitle": "Качественный ремонт и техобслуживание автомобилей",
+    "description": "Мы создаем комфорт и надежность вашего автомобиля. Профессиональное обслуживание по доступной цене.",
+    "cta_text": "Запишитесь онлайн"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают нас?",
+      "content": "Автосервис Мотор — ваш надежный партнер в обслуживании и ремонте автомобилей. Мы ценим ваше время и доверяем вам наши профессиональные секреты.",
+      "features": [
+        "Современные технологии диагностики и ремонта",
+        "Опытные специалисты с многолетним стажем работы",
+        "Индивидуальный подход к каждому автомобилю"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем",
+      "items": [
+        {
+          "name": "Диагностика двигателя",
+          "description": "Комплексная диагностика двигателя с использованием современного оборудования"
+        },
+        {
+          "name": "Замена масла и фильтров",
+          "description": "Быстрая замена моторного масла и всех необходимых фильтров"
+        },
+        {
+          "name": "Шиномонтаж и балансировка колес",
+          "description": "Высокоточное оборудование для шиномонтажа и балансировки колес"
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Наша команда",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Бесплатная консультация",
+          "description": "Вы получите бесплатную консультацию от наших специалистов"
+        },
+        {
+          "step": "*2*",
+          "name": "Диагностика и оценка проблемы",
+          "description": "Точная диагностика состояния вашего авто нашими профессионалами"
+        },
+        {
+          "step": "*3*",
+          "name": "Выполнение ремонтных работ",
+          "description": "Эффективный и качественный ремонт автомобиля"
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "Наши мастера",
+      "content": "Команда профессионалов, прошедших обучение и сертификацию ведущих производителей автомобилей.",
+      "items": [
+        {
+          "name": "Сергей Ткаченко",
+          "description": "Главный механик, 15 лет опыта"
+        },
+        {
+          "name": "Павел Зайцев",
+          "description": "Мастер по двигателям"
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзывы гостей",
+      "items": [
+        {
+          "name": "Иван Смирнов",
+          "text": "Очень доволен работой автосервиса! Быстро и качественно выполнили замену масла и диагностику двигателя."
+        },
+        {
+          "name": "Анна Иванова",
+          "text": "Спасибо команде автосервиса за высокий уровень обслуживания и внимательное отношение!"
+        },
+        {
+          "name": "Дмитрий Кузнецов",
+          "text": "Рекомендую автосервис друзьям и знакомым. Здесь работают настоящие профессионалы своего дела."
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Цены на услуги",
+      "items": [
+        {
+          "name": "Диагностика",
+          "price": "*800 ₽*",
+          "description": "Компьютерная диагностика автомобиля"
+        },
+        {
+          "name": "ТО",
+          "price": "*4500 ₽*",
+          "description": "Техническое обслуживание + замена масла"
+        },
+        {
+          "name": "Комплекс",
+          "price": "*15000 ₽*",
+          "description": "Полный ремонт с гарантией"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие марки автомобилей вы обслуживаете?",
+          "answer": "Мы обслуживаем автомобили любых марок и моделей."
+        },
+        {
+          "question": "Сколько времени занимает диагностика автомобиля?",
+          "answer": "Обычно диагностика занимает от 30 минут до 2 часов в зависимости от сложности."
+        },
+        {
+          "question": "Можно ли записаться заранее?",
+          "answer": "Да, запись доступна через наш сайт или по телефону."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Твой путь начинается здесь",
+      "prompt": "auto mechanic and client shaking hands in modern car service, professional, bright, slavic people"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и качество",
+      "prompt": "two men discussing car repair, mechanic showing engine to client, professional, slavic"
+    },
+    {
+      "id": "services",
+      "caption": "Профессиональный подход",
+      "prompt": "auto mechanic leaning over car engine under hood, hands on engine, professional, bright workshop, anatomically correct hands, 8k"
+    },
+    {
+      "id": "process",
+      "caption": "Как мы работаем",
+      "prompt": "team of four professional auto mechanics in blue uniform, standing near car in garage, friendly, slavic people, all hands holding tools naturally, anatomically correct, sharp focus, 8k"
+    },
+    {
+      "id": "team",
+      "caption": "Наши мастера",
+      "prompt": "auto mechanic in dark blue overalls shaking hands with customer, customer wearing light blue shirt, both smiling, modern clean car service, slavic people, full body, anatomically correct hands, sharp focus, 8k, professional photo"
+    }
+  ],
+  "privacy_policy": "Настоящая политика конфиденциальности описывает порядок сбора, обработки и защиты персональных данных пользователей нашего сайта. Собираются только необходимые данные: имя, контактный номер телефона и адрес электронной почты. Персональные данные не передаются третьим лицам.",
+  "footer": {
+    "copyright": "© 2025 Автосервис Мотор",
+    "contacts": {
+      "email": "info@motorservice.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*12*",
+      "label": "лет опыта"
+    },
+    {
+      "number": "*6800*",
+      "label": "машин"
+    },
+    {
+      "number": "*15*",
+      "label": "мастеров"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва",
+    "map_query": "Москва",
+    "working_hours": "9:00-21:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "process": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">A</text>\n        </svg>"
+}
